@@ -1,8 +1,2 @@
 #!/bin/sh
 echo "--- {}"
-
-cat <<EOF
----
-config_vars:
-  LANG: en_US.UTF-8
-EOF
